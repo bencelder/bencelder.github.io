@@ -1,0 +1,4 @@
+baseURL = 'https://bencelder.com/'
+languageCode = 'en-us'
+title = "Benjamin Elder's Personal Website"
+theme = 'ananke'
